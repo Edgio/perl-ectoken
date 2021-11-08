@@ -13,7 +13,7 @@
 
 ## Background
 
-Perl implementation of the "EdgeCast Token" (`ectoken`) -see main repo [ectoken](https://github.com/VerizonDigital/ectoken) for more details.
+Perl implementation of the "EdgeCast Token" (`ectoken`) -see main repo [ectoken](https://github.com/EdgeCast/ectoken) for more details.
 
 ## Install
 
