@@ -1,5 +1,5 @@
 # perl-ectoken
-> _Perl implementation of EdgeCast token (`ectoken`)_
+> _Perl implementation of Edgio token (`ectoken`)_
 
 
 ## Table of Contents
@@ -13,7 +13,7 @@
 
 ## Background
 
-Perl implementation of the "EdgeCast Token" (`ectoken`) -see main repo [ectoken](https://github.com/EdgeCast/ectoken) for more details.
+Perl implementation of the "Edgio Token" (`ectoken`) -see main repo [ectoken](https://github.com/edgioinc/ectoken) for more details.
 
 ## Install
 
